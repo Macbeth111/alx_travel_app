@@ -3,3 +3,18 @@ __pycache__/
 *.pyc
 .env
 db.sqlite3
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Django-specific
+db.sqlite3
+
+# VSCode
+.vscode
