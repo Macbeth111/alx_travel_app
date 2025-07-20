@@ -1,20 +1,7 @@
-venv/
-__pycache__/
+env/
 *.pyc
-.env
-db.sqlite3
-# Byte-compiled / cache files
 __pycache__/
-*.py[cod]
+*.sqlite3
+.DS_Store
+*.log
 
-# Virtual environment
-venv/
-
-# Environment variables
-.env
-
-# Django-specific
-db.sqlite3
-
-# VSCode
-.vscode
